@@ -1,31 +1,18 @@
 menu:
-  Home:
-  Archives: archives
+  Home: /
+  Archives: /archives
+  DN42: /dn42.html
 
 widgets:
-- search
 - category
 - tag
 - archive
 
 excerpt_link: Read More
 
-twitter:
-  username:
-  show_replies: false
-  tweet_count: 5
-
 fancybox: true
 
 google_analytics:
 rss:
 
-comment_provider: facebook
-# Disqus comment
-disqus_shortname:
-# Facebook comment
-facebook:
-  appid: # <appId>
-  comment_count: 5
-  comment_width: 840
-  comment_colorscheme: light
+commentUrl: Virtual0PTR/blog
